@@ -12,3 +12,5 @@ For each pixel value store all the neighbor pixel value including that cell in a
 Sort the window array.
 
 Median of window array is used to store output image pixel intensity.
+
+The screenshot of output is saved as output.jpeg
